@@ -7,11 +7,11 @@ Event display based on Unity for JUNO experiment
 Get the software
 ------------
 
-[Windows version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.65.0-alpha/eve_juno_alpha_0.65.0_windows.tar)
+[Windows version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.7.0-alpha/ELAINA_alpha_0.7.0_windows.tar.bz2)
 
-[macOS version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.65.0-alpha/eve_juno_alpha_0.65.0_mac.tar)
+[macOS version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.7.0-alpha/ELAINA_alpha_0.7.0_mac.tar.bz2)
 
-[Ubuntu version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.65.0-alpha/eve_juno_alpha_0.65.0_ubuntu.tar)
+[Ubuntu version](https://github.com/bugtheta/JUNOEventDisplay/releases/download/v0.7.0-alpha/ELAINA_alpha_0.7.0_ubuntu.tar.bz2)
 
 Get the data
 ------------
