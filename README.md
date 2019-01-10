@@ -1,11 +1,7 @@
 # JUNOEventDisplay
 Event display based on Unity for JUNO experiment
 
-
-![detector](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector.png)
-
-![photon_tracks](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/%C2%A0photon_tracks.gif)
-
+<img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector.png" height="200"> <img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/%C2%A0photon_tracks.gif" height="200">
 
 
 Get the software
