@@ -2,9 +2,9 @@
 Event display based on Unity for JUNO experiment
 
 
-![detector](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector.png | width=100)
+![detector](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector.png)
 
-![photon_tracks](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/%C2%A0photon_tracks.gif | width=100)
+![photon_tracks](https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/%C2%A0photon_tracks.gif)
 
 
 
