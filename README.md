@@ -1,8 +1,14 @@
 # JUNOEventDisplay
 Event display based on Unity for JUNO experiment
 
+Mode A
+
 <img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector.png" height="200"> <img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/%C2%A0photon_tracks.gif" height="200">
 
+
+Mode B
+
+<img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/JUNO_detector2.png" height="200"> <img src="https://github.com/bugtheta/JUNOEventDisplay/blob/master/Screenshots/ELAINA_TruePMT_short.gif" height="200">
 
 Download
 ------------
